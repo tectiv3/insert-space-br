@@ -1,12 +1,12 @@
 {
   "name": "insert-space-br",
   "main": "./lib/insert-space-br",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Inserts <br> with ctrl+enter, inserts &nbsp; with cmd+enter",
   "activationCommands": {
     "atom-workspace": [
-        "insert-space-br:insertbr",
-        "insert-space-br:insertnbsp"
+      "insert-space-br:insertbr",
+      "insert-space-br:insertnbsp"
     ]
   },
   "repository": "https://github.com/tectiv3/insert-space-br",
