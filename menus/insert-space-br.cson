@@ -1,0 +1,19 @@
+ # See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'insert-space-br'
+      'submenu': [
+        {
+          'label': 'Insert br'
+          'command': 'insert-space-br:insertbr'
+        },
+        {
+          'label': 'Insert nbsp'
+          'command': 'insert-space-br:insertnbsp'
+        }
+      ]
+    ]
+  }
+]
