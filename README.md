@@ -2,4 +2,4 @@
 
 Inserts a br with <kbd>Ctrl+Enter</kbd>.
 
-Inserts a nbsp with <kbd>Cmd+Space</kbd>.
+Inserts a nbsp with <kbd>Alt+Space</kbd>.

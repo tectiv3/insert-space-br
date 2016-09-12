@@ -2,4 +2,4 @@
 
 'atom-text-editor':
   'ctrl-enter': 'insert-space-br:insertbr'
-  'cmd-space': 'insert-space-br:insertnbsp'
+  'alt-space': 'insert-space-br:insertnbsp'

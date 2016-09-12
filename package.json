@@ -2,7 +2,7 @@
   "name": "insert-space-br",
   "main": "./lib/insert-space-br",
   "version": "0.1.0",
-  "description": "Inserts <br> with ctrl+enter, inserts &nbsp; with cmd+enter",
+  "description": "Inserts <br> with ctrl+enter, inserts &nbsp; with alt+enter",
   "activationCommands": {
     "atom-workspace": [
       "insert-space-br:insertbr",
